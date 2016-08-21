@@ -38,7 +38,7 @@
     },
     {
       "name": "puppet",
-      "version_requirement": "3.x"
+      "version_requirement": ">= 3.3.0"
     }
   ],
   "name": "saz-ssh",
